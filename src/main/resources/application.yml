@@ -1,0 +1,14 @@
+#  #pring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3305/bdseguridad?useSSL=false
+#    password:
+#    username: root
+#  jpa:
+#    show-sql: true
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQLDialect
+#        format_sql: true
+#    hibernate:
+#      ddl-auto: update
